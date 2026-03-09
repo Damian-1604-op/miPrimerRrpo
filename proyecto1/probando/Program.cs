@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-string  api_key = "jhakjhaksdhfk"
+string stripe_api_key = "sk_test_4eC39HqlLyjwDarjtT1zdp7dc"
